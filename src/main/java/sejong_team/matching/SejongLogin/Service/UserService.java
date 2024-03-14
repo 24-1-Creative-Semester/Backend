@@ -1,4 +1,4 @@
-package sejong_team.matching.login;
+package sejong_team.matching.SejongLogin.Service;
 
 
 import com.fasterxml.jackson.databind.JsonNode;
@@ -6,8 +6,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import sejong_team.matching.Entity.User;
-import sejong_team.matching.Repository.UserRepository;
+import sejong_team.matching.SejongLogin.Entity.User;
+import sejong_team.matching.SejongLogin.Repository.UserRepository;
 
 @Service
 public class UserService {

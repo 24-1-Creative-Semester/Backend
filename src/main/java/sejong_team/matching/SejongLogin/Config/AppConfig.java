@@ -1,4 +1,4 @@
-package sejong_team.matching.login;
+package sejong_team.matching.SejongLogin.Config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;

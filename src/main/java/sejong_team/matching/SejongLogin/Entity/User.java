@@ -1,4 +1,4 @@
-package sejong_team.matching.Entity;
+package sejong_team.matching.SejongLogin.Entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

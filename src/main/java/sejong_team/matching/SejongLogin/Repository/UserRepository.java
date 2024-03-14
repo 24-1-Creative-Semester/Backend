@@ -1,8 +1,8 @@
-package sejong_team.matching.Repository;
+package sejong_team.matching.SejongLogin.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import sejong_team.matching.Entity.User;
+import sejong_team.matching.SejongLogin.Entity.User;
 
 import java.util.List;
 

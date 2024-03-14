@@ -1,4 +1,4 @@
-package sejong_team.matching.login;
+package sejong_team.matching.SejongLogin.Controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
+import sejong_team.matching.SejongLogin.RequestDto.AuthRequestDto;
+import sejong_team.matching.SejongLogin.Service.UserService;
 
 @Slf4j
 @RequiredArgsConstructor

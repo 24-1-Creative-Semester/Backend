@@ -1,4 +1,4 @@
-package sejong_team.matching.login;
+package sejong_team.matching.SejongLogin.RequestDto;
 
 public class AuthRequestDto {
     private String id;
