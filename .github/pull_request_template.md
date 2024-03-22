@@ -1,4 +1,4 @@
-## PR Type - []안에 x 체크하기
+## PR Type - 괄호 안에 x 체크하기
 
 What kind of change does this PR introduce?
 
